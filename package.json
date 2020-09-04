@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/marichka-offen/CSS-project-1#readme",
   "devDependencies": {
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "concat": "^1.0.3",
     "autoprefixer": "^9.4.7",
     "postcss-cli": "^6.1.1",
